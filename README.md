@@ -10,3 +10,5 @@ with it to see how it works and then forgot about it and it make its way here.
 
 it's just me having fun solving these problem and putting it in my GitHub so it make me feel like I accomplished something.
 So, enjoy having a look at these ... I guess
+
+(oh and most of these are in easy/medium cause I just click the assessment an then the first one that comes up and it's mostly easy/medium question popping up)
