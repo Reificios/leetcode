@@ -1,6 +1,6 @@
 Hello, every one!
 
-This is me, trying to solve LeetCode problems and sharing it with everyone. I DO NOT CLAIM THESE TO BE THE BEST/FASTEST ALGORITHM TO SOLVE THESE PROBLEMS (or even a remotle good one lol).
+This is me, trying to solve LeetCode problems and sharing it with everyone. I DO NOT CLAIM THESE TO BE THE BEST/FASTEST ALGORITHM TO SOLVE THESE PROBLEMS (or even a good one lol).
 I originally intended to solve these to train for interviews but I kinda having fun solving it and don't really care about the it too much.
 It's more like whichever way I can think of how to solve it first is going to be here. I don't care about the performance (most of the times)
 since it's kinda annoting tbh (you already know it when I solve these with Python instead of like C++ or something).
